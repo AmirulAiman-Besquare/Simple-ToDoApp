@@ -1,0 +1,17 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(0, 153, 255);
+  font-family: Poppins;
+}
+
+.heading {
+  text-transform: uppercase;
+  font-size: x-large;
+  z-index: 1;
+  margin: 3rem;
+  color: white;
+}
